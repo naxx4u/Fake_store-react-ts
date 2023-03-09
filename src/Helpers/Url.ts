@@ -1,0 +1,6 @@
+export const allProductURL: string = 'https://api.escuelajs.co/api/v1/products'
+export const onlyClothesURL: string = 'https://api.escuelajs.co/api/v1/categories/1/products'
+export const oblyWatchesURL: string = 'https://api.escuelajs.co/api/v1/categories/2/products'
+export const onlyFurnitureURL: string = 'https://api.escuelajs.co/api/v1/categories/3/products'
+export const onlyShoesURL: string = 'https://api.escuelajs.co/api/v1/categories/4/products'
+export const onlyOtherURL: string = 'https://api.escuelajs.co/api/v1/categories/5/products'
